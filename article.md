@@ -48,7 +48,7 @@ for (var i = 0; i < 300; i++) {
   })(i);
 }
 console.timeEnd('myTimer');
-``
+```
 
 This would determine the amount of time taken to perform the actions in between the `console.time` and `console.timeEnd` calls.
 
